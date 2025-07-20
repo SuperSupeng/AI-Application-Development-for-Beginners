@@ -1,6 +1,21 @@
-# AI-Application-Development-for-Beginners
+<h1 align="center">
+  AI-Application-Development-for-Beginners <br/>
+  <a href="https://github.com/SuperSupeng/AI-Application-Development-for-Beginners">
+    <img src="https://img.shields.io/github/stars/SuperSupeng/AI-Application-Development-for-Beginners?style=social" alt="GitHub stars"/>
+    <img src="https://img.shields.io/github/forks/SuperSupeng/AI-Application-Development-for-Beginners?style=social" alt="GitHub forks"/>
+  </a>
+  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"/>
+</h1>
 
-此教程的目标用户是想要掌握AI辅助开发(vibe-coding)的初学者。通过本教程,你将学习到:
+<p align="center">
+  <img src="assets/banner.png" alt="AI-Application-Development-for-Beginners Banner" width="600"/>
+</p>
+
+<p align="center">
+  <b>面向 AI 辅助开发（vibe-coding）初学者的实战教程</b>
+</p>
+
+此教程的目标用户是想要掌握 AI 辅助开发 (vibe-coding) 的初学者。通过本教程，你将学习到：
 
 - 如何使用 AI 工具(如 Cursor)来提升开发效率
 - 如何从 0 到 1 完整地开发和部署一个 AI 应用
