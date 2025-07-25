@@ -20,10 +20,10 @@
 ## 确定好自己电脑的芯片系列
 **这很重要！会影响到后续步骤，所以写在前面**  
 1. 我们在左上角点击**apple图标**之后，再点击**关于本机**  
-![操作展示](assets/Mac1.png)     
+![操作展示](https://github.com/SuperSupeng/AI-Application-Development-for-Beginners/raw/main/assets/Mac1.jpg)    
   
 
-2. 我们会有一个电脑的硬件信息，其中**芯片**这一行会显示你的芯片系列,一共有两种，M系列和Inter系列，需要记下来以便后续操作  
+1. 我们会有一个电脑的硬件信息，其中**芯片**这一行会显示你的芯片系列,一共有两种，M系列和Inter系列，需要记下来以便后续操作  
 ![操作展示](assets/Mac2.png)   
   
 
