@@ -12,14 +12,14 @@
 ## 下载步骤  
 1. 找到**终端**，并点击进入  
 
-![官网页面](assets/miniconda1.png)     
+![官网页面](https://github.com/SuperSupeng/AI-Application-Development-for-Beginners/raw/main/assets/miniconda1.jpg)     
   
 
 2. 下载安装脚本  
 ```  
 curl -O https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-arm64.sh
 ```
-![官网页面](assets/miniconda2.png)  
+![官网页面](https://github.com/SuperSupeng/AI-Application-Development-for-Beginners/raw/main/assets/miniconda2.png)  
 
 
 3. 通过bash安装
@@ -28,7 +28,7 @@ curl -O https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-arm64.sh
 bash ~/Miniconda3-latest-MacOSX-arm64.sh
 ```  
 ### 期间按回车或者yes就可以
-![官网页面](assets/miniconda3.png)  
+![官网页面](https://github.com/SuperSupeng/AI-Application-Development-for-Beginners/raw/main/assets/miniconda3.png)  
 
 
 4. 添加下载源
@@ -41,5 +41,13 @@ conda config --add channels https://mirrors.ustc.edu.cn/anaconda/cloud/bioconda/
 conda config --add channels https://mirrors.ustc.edu.cn/anaconda/cloud/menpo/
  
 conda config --set show_channel_urls yes
-```  
+```   
+![官网页面](https://github.com/SuperSupeng/AI-Application-Development-for-Beginners/raw/main/assets/miniconda4.png)  
+
+
+5. 我们可以用下面的指令检验miniconda是否安装完毕  
+```
+conda --version  
+```   
+![官网页面](https://github.com/SuperSupeng/AI-Application-Development-for-Beginners/raw/main/assets/miniconda6.png) 
 ## 至此，安装完成

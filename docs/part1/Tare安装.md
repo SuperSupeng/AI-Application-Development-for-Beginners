@@ -24,50 +24,49 @@
   
 
 1. 我们会有一个电脑的硬件信息，其中**芯片**这一行会显示你的芯片系列,一共有两种，M系列和Inter系列，需要记下来以便后续操作  
-![操作展示](assets/Mac2.png)   
+![操作展示](https://github.com/SuperSupeng/AI-Application-Development-for-Beginners/raw/main/assets/Mac2.png)   
   
 
 ## 下载步骤
 1. 登陆官网，（官网地址：https://www.trae.cn/）   
 并且在右上角找到 **下载IDE** 并点击   
-![官网页面](assets/trae1.png)    
+![官网页面](https://github.com/SuperSupeng/AI-Application-Development-for-Beginners/raw/main/assets/trae1.png)    
   
 
 2. 页面中会有一个**下载.dmg**，根据自己电脑的芯片来选择(inter/M)  
 **M就选Apple Silion ，inter就选Intel**  
-![官网页面](assets/trae2.png)  
-
+![官网页面](https://github.com/SuperSupeng/AI-Application-Development-for-Beginners/raw/main/assets/trae2.png)  
 
 3. 选择好以后点击，在网页右上角的下载中会跳出来安装包**Trae CN-darwin-x64.dmg**,点击它  
-![官网页面](assets/trae3.png)  
+![官网页面](https://github.com/SuperSupeng/AI-Application-Development-for-Beginners/raw/main/assets//trae3.png)  
 
   
 4. 点击之后会有一个弹窗，把Trae CN拖拽到Applications中  
-![官网页面](assets/trae4.png) 
+![官网页面](https://github.com/SuperSupeng/AI-Application-Development-for-Beginners/raw/main/assets/trae4.png) 
   
   
 5. 看到这个进度则说明正在下载，前面的操作全对！真棒~  
-![官网页面](assets/trae5.png)   
+![官网页面](https://github.com/SuperSupeng/AI-Application-Development-for-Beginners/raw/main/assets/trae5.jpg)   
 
   
 6. 我们就可以再桌面上找到Trae了！我们需要点击认识他  
-![官网页面](assets/trae6.png)   
+![官网页面](https://github.com/SuperSupeng/AI-Application-Development-for-Beginners/raw/main/assets/trae6.jpg)   
   
     
 7. 自定义主题  
-![官网页面](assets/trae7.png)   
+![官网页面](https://github.com/SuperSupeng/AI-Application-Development-for-Beginners/raw/main/assets/trae7.png)   
 
   
 8. 这一步需要点击**安装‘trae’命令**，这是因为涉及到管理员权限，所以需要输入电脑密码。  
-![官网页面](assets/trae8.png)   
+![官网页面](https://github.com/SuperSupeng/AI-Application-Development-for-Beginners/raw/main/assets/trae8.png)   
 
   
 9. 点击**登录**，会在浏览器跳出来登录的界面。  
-![官网页面](assets/trae9.png)   
+![官网页面](https://github.com/SuperSupeng/AI-Application-Development-for-Beginners/raw/main/assets/trae9.png)   
 
   
-10. 登录成功后，Tare安装成功~  
-![官网页面](assets/trae10.png)   
+10.  登录成功后，Tare安装成功~  
+![官网页面](https://github.com/SuperSupeng/AI-Application-Development-for-Beginners/raw/main/assets/trae10.png)   
 
 
 
