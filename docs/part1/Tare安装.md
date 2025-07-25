@@ -23,9 +23,9 @@
 ![操作展示](https://github.com/SuperSupeng/AI-Application-Development-for-Beginners/raw/main/assets/Mac1.jpg)    
   
 
-1. 我们会有一个电脑的硬件信息，其中**芯片**这一行会显示你的芯片系列,一共有两种，M系列和Inter系列，需要记下来以便后续操作  
-![操作展示](https://github.com/SuperSupeng/AI-Application-Development-for-Beginners/raw/main/assets/Mac2.png)   
-  
+2. 我们会有一个电脑的硬件信息，其中**芯片**这一行会显示你的芯片系列,一共有两种，M系列和Inter系列，需要记下来以便后续操作  
+![操作展示](https://github.com/SuperSupeng/AI-Application-Development-for-Beginners/raw/main/assets/Mac2.png)
+
 
 ## 下载步骤
 1. 登陆官网，（官网地址：https://www.trae.cn/）   
@@ -37,7 +37,7 @@
 **M就选Apple Silion ，inter就选Intel**  
 ![官网页面](https://github.com/SuperSupeng/AI-Application-Development-for-Beginners/raw/main/assets/trae2.png)  
 
-3. 选择好以后点击，在网页右上角的下载中会跳出来安装包**Trae CN-darwin-x64.dmg**,点击它  
+1. 选择好以后点击，在网页右上角的下载中会跳出来安装包**Trae CN-darwin-x64.dmg**,点击它  
 ![官网页面](https://github.com/SuperSupeng/AI-Application-Development-for-Beginners/raw/main/assets//trae3.png)  
 
   
@@ -66,7 +66,7 @@
 
   
 10.  登录成功后，Tare安装成功~  
-![官网页面](https://github.com/SuperSupeng/AI-Application-Development-for-Beginners/raw/main/assets/trae10.png)   
+![官网页面](https://github.com/SuperSupeng/AI-Application-Development-for-Beginners/raw/main/assets/trae12.png)   
 
 
 

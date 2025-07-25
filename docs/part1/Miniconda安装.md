@@ -45,7 +45,7 @@ conda config --set show_channel_urls yes
 ![官网页面](https://github.com/SuperSupeng/AI-Application-Development-for-Beginners/raw/main/assets/miniconda4.png)  
 
 
-5. 我们可以用下面的指令检验miniconda是否安装完毕  
+5. 我们可以用下面的指令检验miniconda是否安装完毕，如果输出conda和版本号则为安装成功~  
 ```
 conda --version  
 ```   
