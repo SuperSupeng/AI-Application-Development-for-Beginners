@@ -27,8 +27,8 @@
 ![操作展示](assets/Mac2.png)   
   
 
-## 登入官网
-1. 官网地址：https://www.trae.cn/   
+## 下载步骤
+1. 登陆官网，（官网地址：https://www.trae.cn/）   
 并且在右上角找到 **下载IDE** 并点击   
 ![官网页面](assets/trae1.png)    
   
