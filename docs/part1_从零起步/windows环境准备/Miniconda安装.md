@@ -23,7 +23,7 @@
 ## 下载步骤
 1. 在开始中搜索"命令提示符"/"CMD"
 
-![官网页面](https://github.com/SuperSupeng/AI-Application-Development-for-Beginners/raw/main/part1_从零起步/windows环境准备/assets/miniconda安装1.png)
+![官网页面](https://github.com/SuperSupeng/AI-Application-Development-for-Beginners/raw/main/assets/miniconda安装1.jpg)
 
 
 2. 下载并安装Miniconda
@@ -31,7 +31,7 @@
 curl -o %TEMP%\Miniconda3-latest-Windows-x86_64.exe https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe && %TEMP%\Miniconda3-latest-Windows-x86_64.exe /InstallationType=JustMe /AddToPath=1 /RegisterPython=1 /S /D=%USERPROFILE%\Miniconda3
 ```
 
-![官网页面](https://github.com/SuperSupeng/AI-Application-Development-for-Beginners/raw/main/part1_从零起步/windows环境准备/assets/miniconda安装2.png)
+![官网页面](https://github.com/SuperSupeng/AI-Application-Development-for-Beginners/raw/main/assets/miniconda安装2.jpg)
 
 
 3. 再次在开始中搜索"命令提示符"/"CMD", 并打开一个新的命令提示符窗口
@@ -41,7 +41,7 @@ curl -o %TEMP%\Miniconda3-latest-Windows-x86_64.exe https://repo.anaconda.com/mi
 conda --version
 ```
 
-![官网页面](https://github.com/SuperSupeng/AI-Application-Development-for-Beginners/raw/main/part1_从零起步/windows环境准备/assets/miniconda安装3.png)
+![官网页面](https://github.com/SuperSupeng/AI-Application-Development-for-Beginners/raw/main/assets/miniconda安装3.jpg)
 
 - 若没有反馈版本号, 尝试运行以下命令后, 再运行conda --version
 ```
@@ -59,6 +59,6 @@ conda config --add channels https://mirrors.ustc.edu.cn/anaconda/cloud/menpo/
 
 conda config --set show_channel_urls yes
 ```
-![官网页面](https://github.com/SuperSupeng/AI-Application-Development-for-Beginners/raw/main/part1_从零起步/windows环境准备/assets/miniconda安装4.png)
+![官网页面](https://github.com/SuperSupeng/AI-Application-Development-for-Beginners/raw/main/assets/miniconda安装4.jpg)
 
 至此，安装完成
