@@ -1,9 +1,0 @@
-
-## 下载步骤
-
-1. 前往微软商店并搜索"python 3.11", 并安装它
-![操作展示](https://github.com/SuperSupeng/AI-Application-Development-for-Beginners/raw/main/assets/py_windows_0.png)
-![操作展示](https://github.com/SuperSupeng/AI-Application-Development-for-Beginners/raw/main/assets/py_windows_1.png)
-
-2. 看到显示"已安装", 就是安装完成啦~
-![操作展示](https://github.com/SuperSupeng/AI-Application-Development-for-Beginners/raw/main/assets/py_windows_2.png)
